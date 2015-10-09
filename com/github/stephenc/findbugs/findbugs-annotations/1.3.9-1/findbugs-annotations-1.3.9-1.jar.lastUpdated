@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Oct 08 11:05:19 IST 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1444282519135
+default-http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot/.lastUpdated=1444282517065
+http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot/.error=Could not transfer artifact com.github.stephenc.findbugs\:findbugs-annotations\:jar\:1.3.9-1 from/to artifactory002.tnt29-zone1.aus1 (http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot)\: Remotely Closed [id\: 0x010c050e, /10.36.36.60\:48790 \:> artifactory.tnt29-zone1.aus1/10.137.113.66\:80]

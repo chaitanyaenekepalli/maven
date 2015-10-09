@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Sep 01 10:30:38 IST 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1441083638886
+default-http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot/.lastUpdated=1441083636758
+http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:2.2.2 from/to artifactory002.tnt29-zone1.aus1 (http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot)\: Remotely Closed [id\: 0x139b4461, /10.36.36.136\:60044 \:> artifactory.tnt29-zone1.aus1/10.137.113.66\:80]

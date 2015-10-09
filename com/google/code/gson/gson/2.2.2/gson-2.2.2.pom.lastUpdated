@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Sep 01 11:10:54 IST 2015
+default-http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot/.lastUpdated=1441086054712
+http\://repo.maven.apache.org/maven2/.lastUpdated=1441083585842
+http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot/.error=Could not transfer artifact com.google.code.gson\:gson\:pom\:2.2.2 from/to artifactory002.tnt29-zone1.aus1 (http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot)\: Read timed out

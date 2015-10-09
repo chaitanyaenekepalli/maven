@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Oct 07 17:38:48 IST 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1444219728269
+default-http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot/.lastUpdated=1444219724457
+http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot/.error=Could not transfer artifact classworlds\:classworlds\:jar\:1.1-alpha-2 from/to artifactory002.tnt29-zone1.aus1 (http\://artifactory.tnt29-zone1.aus1/artifactory/ecomm-snapshot)\: Remotely Closed [id\: 0x678f54a1, /10.36.36.228\:56179 \:> artifactory.tnt29-zone1.aus1/10.137.113.66\:80]
